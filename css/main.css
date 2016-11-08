@@ -12,9 +12,9 @@ h1 {
 }
 
 .fieldset {
-  border-right: 0px;
-  border-left: 0px;
-  border-bottom: 0px;
+  border-right: #000;
+  border-left: #000;
+  border-bottom: #000;
   padding-left: 0;
   padding-right: 0;
 }
@@ -26,11 +26,11 @@ legend {
 @media only screen and (min-width: 60em) {
 
   .left {
-    padding-right: 0.5em;
+    padding-right: .5em;
   }
 
   .right {
-    padding-left: 0.5em;
+    padding-left: .5em;
   }
 
 }
